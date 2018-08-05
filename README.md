@@ -1,5 +1,7 @@
 # Omise Code Challenges
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/challenges.svg)](https://www.guardrails.io)
+
 This repository houses Omise's interviewing code challenges. These are small hands-on
 projects that are very relevant to the tasks you will be working on at Omise.
 
